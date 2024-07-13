@@ -1,5 +1,5 @@
 /**:
-  ros__parameters:
+  ros__parameters: # Default setting
     simulated_frame_id: "base_link" # center of the rear axle.
     origin_frame_id: "map"
     vehicle_model_type: "DELAY_STEER_ACC_GEARED" # options: IDEAL_STEER_VEL / IDEAL_STEER_ACC / IDEAL_STEER_ACC_GEARED / DELAY_STEER_ACC / DELAY_STEER_ACC_GEARED
